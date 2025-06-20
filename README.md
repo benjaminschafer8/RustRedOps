@@ -31,6 +31,7 @@ RustRedOps is a repository that houses various tools and projects related to Red
 * [References](#references)
     * [Other Essential Resources](#other-essential-resources)
 * [License](#license)
+* [Contributors](#contributors)
 
 ## Contents
 
@@ -205,9 +206,9 @@ Here are some other examples of projects I've done with Rust:
 - [**userdmp**](https://github.com/joaoviictorti/userdmp)
     - A Rust crate to parse user-mode minidump files generated on Windows.
 - [**dinvk**](https://github.com/joaoviictorti/dinvk)
-    - Dynamically invoke arbitrary code with Rust tricks, #[no_std] support, and compatibility for `x64`, `x86`, `ARM64` and `WoW64` (DInvoke)
+    - Dynamically invoke arbitrary code and use various tricks written idiomatically in Rust (Dinvoke).
 - [**runas-rs**](https://github.com/joaoviictorti/runas-rs)
-    - A runas implementation with extra features in Rust
+    - A runas implementation with extra features in Rust.
 - [**uwd**](https://github.com/joaoviictorti/uwd)
     - Call Stack Spoofing for Rust.
 
@@ -309,3 +310,7 @@ I would like to express my sincere gratitude to the creators of remarkable proje
 ## License
 
 This project is licensed under the [**MIT License**](/LICENSE)
+
+## Contributors
+
+[![contributors](https://contrib.rocks/image?repo=joaoviictorti/RustRedOps) ](https://github.com/joaoviictorti/RustRedOps/graphs/contributors)
